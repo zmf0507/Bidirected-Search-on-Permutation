@@ -1,4 +1,7 @@
 # Bidirected-Search-on-Permutation
+## This problem is a part of preliminary assignment for application of Masters of computer science at University of Helsinki, Finland. Unfortunately, due to one missing document requirement, my application was rejected in 2019.
+
+
 Bidirected Search permutation - description, mathematical proof and Code implementation in Python
 
 The concept of a permutation has numerous applications in computer science, for example, in the analysis of sorting algorithms and in implementations of distributed systems.
